@@ -11,6 +11,7 @@
 - [JavaScript](#javascript)
 - [Others](#others)
 - [Shell](#shell)
+- [Swift](#swift)
 
 ## C 
 
@@ -37,7 +38,12 @@
 
 ## Shell 
 
+- [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
 - [SWiT/gpihdmiout](https://github.com/SWiT/gpihdmiout) - Enable HDMI output on a GPi Case with a Raspberry Pi Zero or Zero 2 running Retropie.
+
+## Swift 
+
+- [verygenericname/Pogo_root](https://github.com/verygenericname/Pogo_root) - 
 
 
 ## License
