@@ -43,6 +43,7 @@
 
 ## Shell 
 
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7 semi-tethered checkm8 "jailbreak"
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
 - [SWiT/gpihdmiout](https://github.com/SWiT/gpihdmiout) - Enable HDMI output on a GPi Case with a Raspberry Pi Zero or Zero 2 running Retropie.
 
