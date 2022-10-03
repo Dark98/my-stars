@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -17,6 +18,10 @@
 ## Assembly 
 
 - [zaksabeast/DreamRadarCartRedirect](https://github.com/zaksabeast/DreamRadarCartRedirect) - A patch for dream radar redirecting nds cart reading/writing to a file on the SD
+
+## Batchfile 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## C 
 
