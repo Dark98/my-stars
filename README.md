@@ -40,6 +40,7 @@
 
 ## JavaScript 
 
+- [RedSparr0w/Pokeclicker-desktop](https://github.com/RedSparr0w/Pokeclicker-desktop) - 
 - [phhusson/platform_build](https://github.com/phhusson/platform_build) - 
 
 ## Others 
