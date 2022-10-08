@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [JavaScript](#javascript)
 - [Others](#others)
+- [Python](#python)
 - [Shell](#shell)
 - [Swift](#swift)
 
@@ -43,11 +44,18 @@
 
 ## Others 
 
+- [VandalByte/grub-tweaks](https://github.com/VandalByte/grub-tweaks) - Some GRUB tweaks 📚💡
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [sonyxperiadev/local_manifests](https://github.com/sonyxperiadev/local_manifests) - 
 
+## Python 
+
+- [hartwork/grub2-theme-preview](https://github.com/hartwork/grub2-theme-preview) - :city_sunrise: Preview a full GRUB 2.x theme (or just a background image) using KVM / QEMU
+
 ## Shell 
 
+- [RetroFlag/retroflag-picase](https://github.com/RetroFlag/retroflag-picase) - RetroFlag Pi-Case Safe Shutdown
+- [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
 - [SWiT/gpihdmiout](https://github.com/SWiT/gpihdmiout) - Enable HDMI output on a GPi Case with a Raspberry Pi Zero or Zero 2 running Retropie.
