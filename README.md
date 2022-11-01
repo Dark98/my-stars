@@ -58,6 +58,7 @@
 
 ## Python 
 
+- [magneticchen/Daijishou](https://github.com/magneticchen/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries.
 - [hartwork/grub2-theme-preview](https://github.com/hartwork/grub2-theme-preview) - :city_sunrise: Preview a full GRUB 2.x theme (or just a background image) using KVM / QEMU
 
 ## Shell 
