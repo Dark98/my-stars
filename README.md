@@ -68,7 +68,7 @@
 
 ## Shell 
 
-- [ruanformigoni/agape](https://github.com/ruanformigoni/agape) - Agape - AppImage Game Packer
+- [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) - Agape - AppImage Game Packer
 - [RetroFlag/retroflag-picase](https://github.com/RetroFlag/retroflag-picase) - RetroFlag Pi-Case Safe Shutdown
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
