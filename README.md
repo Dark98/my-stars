@@ -54,6 +54,7 @@
 
 ## Kotlin 
 
+- [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 - [BigBoot/GW4Remap](https://github.com/BigBoot/GW4Remap) - 
 
 ## Objective-C 
