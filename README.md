@@ -78,7 +78,7 @@
 - [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) - Agape - AppImage Game Packer
 - [RetroFlag/retroflag-picase](https://github.com/RetroFlag/retroflag-picase) - RetroFlag Pi-Case Safe Shutdown
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak"
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
 - [SWiT/gpihdmiout](https://github.com/SWiT/gpihdmiout) - Enable HDMI output on a GPi Case with a Raspberry Pi Zero or Zero 2 running Retropie.
 
