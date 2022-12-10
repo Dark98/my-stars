@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Objective-C](#objective-c)
@@ -46,6 +47,10 @@
 ## HTML 
 
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
+
+## Java 
+
+- [blunden/SPayToGPay](https://github.com/blunden/SPayToGPay) - A helper app to remap the Samsung Pay button shortcut on the GW4 to Google Pay on watches shipping without Samsung Pay
 
 ## JavaScript 
 
