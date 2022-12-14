@@ -80,7 +80,7 @@
 ## Shell 
 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) - Agape - AppImage Game Packer
+- [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) - Gameimage - AppImage Game Packer
 - [RetroFlag/retroflag-picase](https://github.com/RetroFlag/retroflag-picase) - RetroFlag Pi-Case Safe Shutdown
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
