@@ -42,7 +42,7 @@
 ## C++ 
 
 - [Lumince/Dolphin-MMJR2](https://github.com/Lumince/Dolphin-MMJR2) - Dolphin |MMJR2| is a Gamecube/Wii Emulator for Android devices; based on Dolphin Official dev source code. Hence, the aim is to get the newer features, fixes, updates of Dolphin Official BUT with the 
-- [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
+- [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 
 ## HTML 
 
