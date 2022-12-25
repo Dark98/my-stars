@@ -19,6 +19,7 @@
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Visual Basic .NET](#visual-basic-.net)
 
 ## Assembly 
 
@@ -90,6 +91,10 @@
 ## TypeScript 
 
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK) - 
+
+## Visual Basic .NET 
+
+- [SvenGDK/XboxMediaUSB](https://github.com/SvenGDK/XboxMediaUSB) - Creates a new drive for Xbox consoles or adds missing permissions.
 
 
 ## License
