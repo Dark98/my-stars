@@ -16,6 +16,7 @@
 - [Kotlin](#kotlin)
 - [Objective-C](#objective-c)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -74,6 +75,10 @@
 - [VandalByte/grub-tweaks](https://github.com/VandalByte/grub-tweaks) - Some GRUB tweaks 📚💡
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [sonyxperiadev/local_manifests](https://github.com/sonyxperiadev/local_manifests) - 
+
+## PowerShell 
+
+- [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
 
 ## Python 
 
