@@ -63,7 +63,7 @@
 
 ## Kotlin 
 
-- [alycii/tek5](https://github.com/alycii/tek5) - An open-source revision of RSMod v1 that targets RuneTek5 (client revision 667)
+- [2011Scape/tek5](https://github.com/2011Scape/tek5) - An open-source revision of RSMod v1 that targets RuneTek5 (client revision 667)
 - [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 - [BigBoot/GW4Remap](https://github.com/BigBoot/GW4Remap) - 
 
