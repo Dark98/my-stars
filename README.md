@@ -39,6 +39,8 @@
 
 ## C# # 
 
+- [Kermalis/PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
+- [Kermalis/PokemonGameEngine](https://github.com/Kermalis/PokemonGameEngine) - A C# 2D Pokémon game engine and map editor.
 - [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
 
 ## C++ 
