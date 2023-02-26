@@ -47,6 +47,7 @@
 
 ## C++ 
 
+- [SapphireServer/Sapphire](https://github.com/SapphireServer/Sapphire) - A Final Fantasy XIV 4.0+ Server Emulator written in C++
 - [SirMangler/dolphin](https://github.com/SirMangler/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [SirMangler/xenia](https://github.com/SirMangler/xenia) - Xbox 360 Emulator Research Project for UWP
 - [Lumince/Dolphin-MMJR2](https://github.com/Lumince/Dolphin-MMJR2) - Dolphin |MMJR2| is a Gamecube/Wii Emulator for Android devices; based on Dolphin Official dev source code. Hence, the aim is to get the newer features, fixes, updates of Dolphin Official BUT with the 
