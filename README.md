@@ -64,6 +64,7 @@
 
 ## JavaScript 
 
+- [marcrobledo/savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
 - [omijh/PicoFusee](https://github.com/omijh/PicoFusee) - 
 - [RedSparr0w/Pokeclicker-desktop](https://github.com/RedSparr0w/Pokeclicker-desktop) - 
 - [phhusson/platform_build](https://github.com/phhusson/platform_build) - 
