@@ -90,6 +90,7 @@
 
 ## Others 
 
+- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [VandalByte/grub-tweaks](https://github.com/VandalByte/grub-tweaks) - Some GRUB tweaks 📚💡
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [sonyxperiadev/local_manifests](https://github.com/sonyxperiadev/local_manifests) - 
