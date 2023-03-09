@@ -60,6 +60,7 @@
 
 ## Java 
 
+- [arios530/Arios-530](https://github.com/arios530/Arios-530) - Arios 530 with various fixes and improvements.
 - [blunden/SPayToGPay](https://github.com/blunden/SPayToGPay) - A helper app to remap the Samsung Pay button shortcut on the GW4 to Google Pay on watches shipping without Samsung Pay
 
 ## JavaScript 
