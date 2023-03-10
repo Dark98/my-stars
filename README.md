@@ -41,6 +41,7 @@
 
 ## C# # 
 
+- [Myster-Tee/TinfoilWebServer](https://github.com/Myster-Tee/TinfoilWebServer) - Install your packages from your own server
 - [Kermalis/PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
 - [Kermalis/PokemonGameEngine](https://github.com/Kermalis/PokemonGameEngine) - A C# 2D Pokémon game engine and map editor.
 - [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
@@ -65,6 +66,7 @@
 
 ## JavaScript 
 
+- [vinicioslc/tinfoil-hat](https://github.com/vinicioslc/tinfoil-hat) - Serve all your switch homebrews (XCI NSP ) in local network from your own server (can protect with passwords), and the best without high memory consumption from old NUT python project
 - [marcrobledo/savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
 - [omijh/PicoFusee](https://github.com/omijh/PicoFusee) - 
 - [RedSparr0w/Pokeclicker-desktop](https://github.com/RedSparr0w/Pokeclicker-desktop) - 
