@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [momo5502/game-man](https://github.com/momo5502/game-man) - 📱 Android gameboy emulator, but grown up.
 - [SapphireServer/Sapphire](https://github.com/SapphireServer/Sapphire) - A Final Fantasy XIV 4.0+ Server Emulator written in C++
 - [SirMangler/dolphin](https://github.com/SirMangler/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [SirMangler/xenia](https://github.com/SirMangler/xenia) - Xbox 360 Emulator Research Project for UWP
