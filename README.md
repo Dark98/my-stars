@@ -64,15 +64,12 @@
 ## Java 
 
 - [arios530/Arios-530](https://github.com/arios530/Arios-530) - Arios 530 with various fixes and improvements.
-- [blunden/SPayToGPay](https://github.com/blunden/SPayToGPay) - A helper app to remap the Samsung Pay button shortcut on the GW4 to Google Pay on watches shipping without Samsung Pay
 
 ## JavaScript 
 
 - [vinicioslc/tinfoil-hat](https://github.com/vinicioslc/tinfoil-hat) - Serve all your switch homebrews (XCI NSP ) in local network from your own server (can protect with passwords), and the best without high memory consumption from old NUT python project
 - [marcrobledo/savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
-- [omijh/PicoFusee](https://github.com/omijh/PicoFusee) - 
 - [RedSparr0w/Pokeclicker-desktop](https://github.com/RedSparr0w/Pokeclicker-desktop) - 
-- [phhusson/platform_build](https://github.com/phhusson/platform_build) - 
 
 ## Kotlin 
 
