@@ -102,6 +102,7 @@
 
 ## Python 
 
+- [NafisiAslH/KnowledgeSharing](https://github.com/NafisiAslH/KnowledgeSharing) - 
 - [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup.
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
 - [hartwork/grub2-theme-preview](https://github.com/hartwork/grub2-theme-preview) - :city_sunrise: Preview a full GRUB 2.x theme (or just a background image) using KVM / QEMU
