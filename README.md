@@ -102,6 +102,8 @@
 
 ## Python 
 
+- [bverc/retropie-status-overlay](https://github.com/bverc/retropie-status-overlay) - Retropie status icon overlay display
+- [SinisterSpatula/retropie_status_overlay](https://github.com/SinisterSpatula/retropie_status_overlay) - Retropie status icon overlay display
 - [NafisiAslH/KnowledgeSharing](https://github.com/NafisiAslH/KnowledgeSharing) - 
 - [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup.
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
