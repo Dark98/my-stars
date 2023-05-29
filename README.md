@@ -57,6 +57,7 @@
 
 ## HTML 
 
+- [bibanon/android-development-codex](https://github.com/bibanon/android-development-codex) - A Wiki containing guides to modding many different consumer electronic devices.
 - [Paradoxis/OSRS-Font-Parser](https://github.com/Paradoxis/OSRS-Font-Parser) - Make your website relive your nerdy childhood
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
