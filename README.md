@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [krazynez/boiii](https://github.com/krazynez/boiii) - ☄️ An attempt at reverse engineering and analyzing Call of Duty: Black Ops 3
 - [momo5502/game-man](https://github.com/momo5502/game-man) - 📱 Android gameboy emulator, but grown up.
 - [SapphireServer/Sapphire](https://github.com/SapphireServer/Sapphire) - A Final Fantasy XIV 4.0+ Server Emulator written in C++
 - [SirMangler/dolphin](https://github.com/SirMangler/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
