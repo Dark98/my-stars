@@ -65,6 +65,7 @@
 
 ## Java 
 
+- [CSS-Lletya/633-official](https://github.com/CSS-Lletya/633-official) - The official repository for the RS #633 revision
 - [arios530/Arios-530](https://github.com/arios530/Arios-530) - Arios 530 with various fixes and improvements.
 
 ## JavaScript 
