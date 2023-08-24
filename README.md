@@ -70,7 +70,7 @@
 
 ## JavaScript 
 
-- [vinicioslc/tinfoil-hat](https://github.com/vinicioslc/tinfoil-hat) - Serve switch homebrews .XCI, .NSP in your personal server (with passwords or not), and low resource usage! compared with NUT projects available...
+- [vinicioslc/tinfoil-hat](https://github.com/vinicioslc/tinfoil-hat) - Serve switch homebrews .XCI .NSP .NSZ in your personal server (with passwords or not), and low resource usage! compared with NUT projects available...
 - [marcrobledo/savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
 - [RedSparr0w/Pokeclicker-desktop](https://github.com/RedSparr0w/Pokeclicker-desktop) - 
 
