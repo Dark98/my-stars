@@ -36,7 +36,7 @@
 
 - [ITotalJustice/sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) - Download sigpatches for Atmosphere directly to your switch!
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
 - [DaveeFTW/Infinity](https://github.com/DaveeFTW/Infinity) - Persistent custom firmware for all PSPs
 - [DaveeFTW/Chronoswitch](https://github.com/DaveeFTW/Chronoswitch) - Downgrader utility for the Playstation Portable
 - [PSP-Archive/ARK-4](https://github.com/PSP-Archive/ARK-4) - Custom Firmware for the PSP and PS Vita.
