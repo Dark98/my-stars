@@ -34,7 +34,7 @@
 
 ## C 
 
-- [HTC-Leo-Revival-Project/HtcLeoPkg](https://github.com/HTC-Leo-Revival-Project/HtcLeoPkg) - Attempt at creating an EDK2 port for the HTC HD2
+- [HTC-Leo-Revival-Project/HtcLeoPkg](https://github.com/HTC-Leo-Revival-Project/HtcLeoPkg) - EDK2 UEFI firmware for HTC HD2
 - [ITotalJustice/sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) - Download sigpatches for Atmosphere directly to your switch!
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
