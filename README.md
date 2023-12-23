@@ -93,7 +93,7 @@
 
 ## Objective-C 
 
-- [dora2-iOS/ayakurume](https://github.com/dora2-iOS/ayakurume) - for checkm8 devices
+- [dora2ios/ayakurume](https://github.com/dora2ios/ayakurume) - for checkm8 devices
 
 ## Others 
 
