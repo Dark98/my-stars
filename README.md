@@ -51,6 +51,7 @@
 
 ## C++ 
 
+- [sudachi-emu/sudachi](https://github.com/sudachi-emu/sudachi) - 
 - [ZenoArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run) - Switch port of The Simpsons: Hit & Run original source code from 2003
 - [krazynez/boiii](https://github.com/krazynez/boiii) - ☄️ An attempt at reverse engineering and analyzing Call of Duty: Black Ops 3
 - [momo5502/game-man](https://github.com/momo5502/game-man) - 📱 Android gameboy emulator, but grown up.
