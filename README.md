@@ -73,7 +73,6 @@
 
 ## JavaScript 
 
-- [vinicioslc/tinfoil-hat](https://github.com/vinicioslc/tinfoil-hat) - [ I no longer want mantain this project but still open for PRs ] Serve switch homebrews .XCI .NSP .NSZ in your personal server (with passwords or not), and low resource usage! compared with NUT projec
 - [marcrobledo/savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
 - [RedSparr0w/Pokeclicker-desktop](https://github.com/RedSparr0w/Pokeclicker-desktop) - 
 
@@ -114,7 +113,6 @@
 - [bverc/retropie-status-overlay](https://github.com/bverc/retropie-status-overlay) - Retropie status icon overlay display
 - [SinisterSpatula/retropie_status_overlay](https://github.com/SinisterSpatula/retropie_status_overlay) - Retropie status icon overlay display
 - [NafisiAslH/KnowledgeSharing](https://github.com/NafisiAslH/KnowledgeSharing) - 
-- [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup.
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
 - [hartwork/grub2-theme-preview](https://github.com/hartwork/grub2-theme-preview) - :city_sunrise: Preview a full GRUB 2.x theme (or just a background image) using KVM / QEMU
 
