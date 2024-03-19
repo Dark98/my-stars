@@ -34,6 +34,7 @@
 
 ## C 
 
+- [Rakashazi/emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha) - Multi-platform computer & game console emulation system including supporting code (EmuFramework) and core engine (Imagine)
 - [HTC-Leo-Revival-Project/HtcLeoPkg](https://github.com/HTC-Leo-Revival-Project/HtcLeoPkg) - EDK2 UEFI firmware for HTC HD2
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
@@ -110,6 +111,7 @@
 
 ## Python 
 
+- [zurdi15/romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
 - [kasvtv/steam_deck_overwrite_trigger_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal) - Utility for manually overriding firmware calibration values on the Steam Deck for its analog triggers. No more huge dead zones! Responsive triggers! Rejoice!
 - [bverc/retropie-status-overlay](https://github.com/bverc/retropie-status-overlay) - Retropie status icon overlay display
 - [SinisterSpatula/retropie_status_overlay](https://github.com/SinisterSpatula/retropie_status_overlay) - Retropie status icon overlay display
