@@ -111,7 +111,7 @@
 
 ## Python 
 
-- [zurdi15/romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [kasvtv/steam_deck_overwrite_trigger_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal) - Utility for manually overriding firmware calibration values on the Steam Deck for its analog triggers. No more huge dead zones! Responsive triggers! Rejoice!
 - [bverc/retropie-status-overlay](https://github.com/bverc/retropie-status-overlay) - Retropie status icon overlay display
 - [SinisterSpatula/retropie_status_overlay](https://github.com/SinisterSpatula/retropie_status_overlay) - Retropie status icon overlay display
