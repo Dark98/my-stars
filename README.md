@@ -37,7 +37,7 @@
 - [Rakashazi/emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha) - Multi-platform computer & game console emulation system including supporting code (EmuFramework) and core engine (Imagine)
 - [HTC-Leo-Revival-Project/HtcLeoPkg](https://github.com/HTC-Leo-Revival-Project/HtcLeoPkg) - EDK2 UEFI firmware for HTC HD2
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
 - [DaveeFTW/Infinity](https://github.com/DaveeFTW/Infinity) - Persistent custom firmware for all PSPs
 - [DaveeFTW/Chronoswitch](https://github.com/DaveeFTW/Chronoswitch) - Downgrader utility for the Playstation Portable
 - [PSP-Archive/ARK-4](https://github.com/PSP-Archive/ARK-4) - Custom Firmware for the PSP and PS Vita.
