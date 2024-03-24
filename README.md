@@ -70,7 +70,7 @@
 
 ## Java 
 
-- [luna-rs/luna](https://github.com/luna-rs/luna) - A highly scalable and efficient Runescape server. Targets revision #317
+- [luna-rs/luna](https://github.com/luna-rs/luna) - A highly scalable and efficient Runescape server. Targets revision #377
 - [CSS-Lletya/633-official](https://github.com/CSS-Lletya/633-official) - The official repository for the RS #633 revision
 - [arios530/Arios-530](https://github.com/arios530/Arios-530) - Arios 530 with various fixes and improvements.
 
