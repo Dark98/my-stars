@@ -35,6 +35,7 @@
 
 ## C 
 
+- [andymcca/sf2000_multicore](https://github.com/andymcca/sf2000_multicore) - SF2000 multicore loader for libretro cores
 - [Rakashazi/emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha) - Multi-platform computer & game console emulation system including supporting code (EmuFramework) and core engine (Imagine)
 - [HTC-Leo-Revival-Project/HtcLeoPkg](https://github.com/HTC-Leo-Revival-Project/HtcLeoPkg) - EDK2 UEFI firmware for HTC HD2
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
