@@ -128,7 +128,7 @@
 
 ## Rust 
 
-- [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) - Gameimage - FlatImage / AppImage Game Packer
+- [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) - Gameimage - FlatImage Game Packer
 
 ## Shell 
 
