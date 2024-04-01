@@ -21,6 +21,7 @@
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -125,10 +126,13 @@
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
 - [hartwork/grub2-theme-preview](https://github.com/hartwork/grub2-theme-preview) - :city_sunrise: Preview a full GRUB 2.x theme (or just a background image) using KVM / QEMU
 
+## Rust 
+
+- [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) - Gameimage - FlatImage / AppImage Game Packer
+
 ## Shell 
 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) - Gameimage - FlatImage / AppImage Game Packer
 - [RetroFlag/retroflag-picase](https://github.com/RetroFlag/retroflag-picase) - RetroFlag Pi-Case Safe Shutdown
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
