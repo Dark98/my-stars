@@ -107,6 +107,7 @@
 
 ## Others 
 
+- [NathanOrdSec/DisableWindowsCopilot](https://github.com/NathanOrdSec/DisableWindowsCopilot) - 
 - [ShockSlayer/ccdocs](https://github.com/ShockSlayer/ccdocs) - 
 - [airscripts/awesome-steam-deck](https://github.com/airscripts/awesome-steam-deck) - A curated list of awesome Steam Deck software, resources and more.
 - [jz5678910/MagiskOnWSA-1](https://github.com/jz5678910/MagiskOnWSA-1) - 
