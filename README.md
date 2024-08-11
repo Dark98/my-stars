@@ -38,7 +38,7 @@
 
 - [andymcca/sf2000_multicore](https://github.com/andymcca/sf2000_multicore) - SF2000 multicore loader for libretro cores
 - [Rakashazi/emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha) - Multi-platform computer & game console emulation system including supporting code (EmuFramework) and core engine (Imagine)
-- [HTC-Leo-Revival-Project/HtcLeoPkg](https://github.com/HTC-Leo-Revival-Project/HtcLeoPkg) - EDK2 UEFI firmware for HTC HD2 and HTC HD7
+- [HTC-Leo-Revival-Project/HtcLeoPkg](https://github.com/HTC-Leo-Revival-Project/HtcLeoPkg) - EDK2 UEFI firmware for HTC HD2 and HTC HD7/7 PRO
 - [intel/sgx-software-enable](https://github.com/intel/sgx-software-enable) - 
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [DaveeFTW/Infinity](https://github.com/DaveeFTW/Infinity) - Persistent custom firmware for all PSPs
