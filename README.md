@@ -106,6 +106,8 @@
 
 ## Others 
 
+- [star-bits/kichATwear](https://github.com/star-bits/kichATwear) - A Wear OS watch face inspired by linux terminal aesthetics.
+- [Fiotux/wearOS-terminal-face](https://github.com/Fiotux/wearOS-terminal-face) - A watchface that looks like a small terminal for wearOS
 - [NathanOrdSec/DisableWindowsCopilot](https://github.com/NathanOrdSec/DisableWindowsCopilot) - 
 - [ShockSlayer/ccdocs](https://github.com/ShockSlayer/ccdocs) - 
 - [airscripts/awesome-steam-deck](https://github.com/airscripts/awesome-steam-deck) - A curated list of awesome Steam Deck software, resources and more.
