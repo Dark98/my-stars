@@ -94,7 +94,7 @@
 
 ## Lua 
 
-- [LandSandBoat/server](https://github.com/LandSandBoat/server) - :sailboat: LandSandBoat - a server emulator for Final Fantasy XI. Just an X-34 landspeeder out for a drive.
+- [LandSandBoat/server](https://github.com/LandSandBoat/server) - :sailboat: LandSandBoat - a server emulator for Final Fantasy XI
 
 ## Makefile 
 
