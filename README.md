@@ -124,7 +124,7 @@
 
 ## Python 
 
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [kasvtv/steam_deck_overwrite_trigger_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal) - Utility for manually overriding firmware calibration values on the Steam Deck for its analog triggers. No more huge dead zones! Responsive triggers! Rejoice!
 - [bverc/retropie-status-overlay](https://github.com/bverc/retropie-status-overlay) - Retropie status icon overlay display
