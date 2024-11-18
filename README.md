@@ -148,6 +148,7 @@
 
 ## TypeScript 
 
+- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK) - 
 
 ## Visual Basic .NET 
